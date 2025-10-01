@@ -1,201 +1,201 @@
-driverId,name,ssn,location,certified,wage-plan
-10,Robert Townsend,094-37-1965,"Unit 1516 Box 7107
-DPO AA 57247",Y,hours
-11,Anthony Campbell,296-06-0311,"090 Julie Shoal Suite 017
-South Denisehaven, GU 16804",Y,miles
-12,Joshua Holland,115-92-5277,"682 Klein Plaza Suite 588
-Nelsonton, PR 08506",Y,miles
-13,Samantha Mitchell,146-39-4738,"86985 Vincent Cove
-West Carrie, TN 55362",N,hours
-14,Courtney Edwards,085-96-9109,"660 Ford Key
-Lake Joelmouth, NH 10266",Y,miles
-15,Bradley Watson,722-72-7010,"75178 Simmons Drives
-Williamchester, ID 63471",N,miles
-16,Dakota Hahn,673-52-1849,"055 Phillips Forest
-Lamtown, CT 53008",Y,miles
-17,William Giles,302-10-6258,"Unit 9669 Box 1477
-DPO AP 57610",N,hours
-18,Kevin Eaton,635-67-2205,"765 Robinson Lodge Suite 813
-Humphreyhaven, MD 00901",N,hours
-19,Joshua Webster,443-02-7035,"68824 Hurst Manor
-Margarethaven, KS 66138",N,hours
-20,Chris Ortiz,184-83-0424,"22057 Ball Mall Suite 131
-Richardport, AZ 33489",N,hours
-21,Dawn Anderson,806-75-1916,"5809 Munoz Ridges Apt. 401
-Lake Lisahaven, SD 99544",N,miles
-22,Megan Ruiz,509-46-3745,"3416 Jackson Summit
-Port Michael, PA 53981",Y,miles
-23,Daniel Case,273-79-6673,"70633 Alyssa Wall Suite 402
-Reedland, TX 66259",Y,miles
-24,Morgan Campbell,824-08-6781,"43964 Jacobs Park
-Craigfurt, MD 53219",Y,hours
-25,Michael Stevenson,192-03-6458,"60400 Krista Hills Apt. 464
-New Keithfurt, WY 18314",N,miles
-26,Tracy Bryant,837-03-5195,"Unit 1310 Box 8263
-DPO AA 85331",Y,miles
-27,Samantha Dunn,422-76-1572,"PSC 3835, Box 7922
-APO AP 08006",N,hours
-28,Aaron Stokes,686-12-7085,"38987 Gregory Track Apt. 453
-New Allison, NM 42337",N,hours
-29,Robert Gonzalez,678-69-4232,"43072 Hickman Parks Apt. 808
-Gregoryview, IL 39719",N,miles
-30,Harold Kemp,868-59-9780,"42954 Noah Mount Suite 853
-West Jonathan, GA 89814",Y,miles
-31,Andrew Duke,628-42-8126,"32922 Morrow Knolls Suite 878
-Ginaburgh, PW 85974",N,miles
-32,Michael Sharp,594-98-9425,"9035 Robinson Valleys
-Williamsonside, WY 48575",N,hours
-33,Mark Rasmussen,590-06-1160,"371 Cynthia Squares Apt. 897
-Taylorberg, DE 40172",Y,hours
-34,Gregory Blake,218-44-5914,"0569 Lewis Mall
-New Jessica, MO 40739",N,miles
-35,Laura Pope,403-24-8353,"8783 Pope Ways
-North Lauren, MS 28352",Y,miles
-36,Danielle Osborne,656-43-9981,"1262 Hernandez Inlet
-Williamshire, VA 66512",N,hours
-37,Jason Valentine,736-71-6245,"601 Aaron Knolls
-Kaitlintown, OK 49833",N,miles
-38,Timothy West,798-37-4338,"225 Michael Mountains
-Kaylaborough, AZ 51496",N,miles
-39,Andrew Spencer,635-50-1986,"825 Jordan Rapid
-North Brenda, AR 78977",Y,miles
-40,Anthony Johnson,571-69-4279,"884 Kim Mission
-Port Carolfurt, GA 72152",N,miles
-41,Jessica Patel,580-56-6317,"332 Theresa Locks Apt. 459
-Lake Loganville, VT 12848",Y,hours
-42,Vanessa Hart,597-99-0110,"453 Ramos Ford Apt. 986
-Wilkinsonhaven, PR 79359",Y,hours
-43,Charles Washington,245-96-4216,"241 Kelley Trail Suite 235
-Deborahbury, ME 22237",Y,miles
-44,Matthew Grant DDS,497-08-4197,"19867 Jacob Vista Apt. 833
-West Jeanettetown, FL 19427",N,miles
-45,Jessica Mitchell,232-84-4369,"197 Taylor Oval Apt. 644
-Johnsonchester, MI 85545",N,hours
-46,Erika Warren,780-06-4467,"909 Martha Lane Apt. 554
-West Bonnie, NC 58577",Y,hours
-47,Harry Taylor,353-92-7074,"505 Cross Ridge Apt. 413
-Lake Robertville, AL 47682",Y,hours
-48,Matthew Harris,749-56-5335,"6698 Black Bridge Suite 137
-North Andreaville, ND 31388",N,miles
-49,Shannon Smith,576-47-4148,"8483 Elizabeth Cliffs
-South Christinafurt, SC 21427",Y,hours
-50,Michelle Fowler,741-75-1210,"0350 Mendoza Port Suite 015
-South Angelborough, MD 50496",N,miles
-51,Jonathan Brown,699-35-2941,"569 Arthur Mountains Apt. 023
-South Tracy, LA 13155",Y,hours
-52,Amber Le,106-57-7623,"2311 Lara Lights
-Brownfurt, ID 56225",Y,miles
-53,Anthony Guerrero,143-23-9253,"USNS Edwards
-FPO AA 85201",Y,miles
-54,Kelsey Vazquez,255-11-4117,"USS Reyes
-FPO AP 82623",Y,miles
-55,Erik Franklin,422-02-2419,"22618 Weaver Course Suite 084
-Michaelmouth, WI 06431",N,miles
-56,Mark Franklin,445-59-0264,"97035 Mary Inlet Suite 562
-New Ronald, VA 74021",N,hours
-57,Lauren Campbell,455-29-6992,"850 Johnston Dale
-Nataliehaven, UT 46202",Y,miles
-58,Elizabeth Hughes,261-71-5242,"96251 Caitlin Lock
-Lake Raymondbury, LA 13784",Y,miles
-59,Kenneth Holder,574-62-3607,"818 Thompson Common Suite 932
-New Andrea, NE 47888",N,miles
-60,Frank Riley,793-86-3470,"6466 Erin Square
-Michelleside, AS 38267",N,miles
-61,Kathryn Rowe,696-22-4508,"257 Ellen Valley
-New Vincent, MT 46017",N,miles
-62,Wendy Cross,471-28-3075,"4365 Andre Hills Apt. 845
-East Matthewbury, IL 43934",N,miles
-63,Bob Jensen,430-38-2833,"9930 Shane Causeway Apt. 703
-Lake Richard, SD 18723",Y,hours
-64,Sheila Barajas,514-69-1997,"542 Jessica Road Apt. 933
-Davishaven, VI 27478",Y,hours
-65,Benjamin Edwards,702-41-9613,"2563 Stuart Streets
-Shepardland, PA 32946",N,miles
-66,Gregory Wallace,592-96-7840,"2141 Russo Mission Apt. 052
-Frazierberg, FL 16611",N,hours
-67,Ricardo Lopez,598-67-8690,"USNV Harvey
-FPO AA 41336",Y,miles
-68,Kimberly Wagner,406-06-5927,"318 Neal Falls
-East Tommy, VT 42114",N,miles
-69,Haley Richardson,635-94-8567,"USCGC Sharp
-FPO AA 67978",Y,miles
-70,Joseph Rivera,200-38-3730,"06452 Fuentes Track Apt. 899
-South Ralph, WI 56322",N,miles
-71,Justin Curry,051-62-8466,"0832 Harris Fords Suite 735
-Wadefurt, LA 05914",Y,hours
-72,Maureen Bridges,818-95-5427,"27159 Jeanette Gardens Suite 545
-Port Tracyport, OR 52330",Y,hours
-73,Stephanie Hughes,154-77-4167,"7939 Aguirre Road Suite 998
-North Loriberg, ND 87218",Y,miles
-74,Jamie Sims,815-49-7576,"90305 Morris Falls Suite 320
-East Maryfort, OR 09311",N,miles
-75,Adriana Powers,790-91-8809,"616 Chad Shores
-Newmanborough, NH 22584",N,hours
-76,Gregory Meyers,694-22-2036,"0872 Riley Rest
-North Jesseton, PA 91224",N,hours
-77,Kenneth Raymond,866-31-8885,"878 Galvan Station
-Marquezmouth, SD 46095",Y,hours
-78,Jonathan Pope,561-82-1693,"8650 Cook Row
-West Shane, PW 31729",N,hours
-79,Charles Baker,737-63-2367,"83002 Novak Tunnel Suite 903
-South Jeff, PR 01029",N,hours
-80,Brian Gonzalez,841-96-6163,"USS Nicholson
-FPO AE 90644",Y,hours
-81,Richard Hopkins,391-49-7711,"USNS Carr
-FPO AP 21053",N,hours
-82,Shaun Wright,040-43-6132,"859 Gomez Shoals
-Josephmouth, ME 41501",Y,hours
-83,Stacy Hernandez,747-13-1764,"436 Lee Street
-South Adam, NV 96117",N,hours
-84,Katie Rice,360-79-0434,"3504 Kyle Expressway Apt. 730
-Josephhaven, TN 80974",Y,hours
-85,Erin White,099-74-8314,"83709 Mclean Flats
-Huntshire, IA 02384",Y,miles
-86,Daniel Koch,036-43-7205,"05162 Morgan Mills Suite 475
-Danielstad, SC 85001",Y,miles
-87,Daniel Lopez,304-53-8174,"379 Perry Curve
-Millerfort, PR 95409",N,miles
-88,Paul Lara,177-71-1698,"4039 Lewis Cove
-Amandafort, OH 26366",N,miles
-89,Carlos Hood,236-10-7185,"3751 Flores Extension Apt. 116
-Dawnmouth, DC 98812",N,miles
-90,Karen Howard,609-53-6907,"384 Paul Station
-Port Karl, PA 43889",Y,miles
-91,Christina Khan,583-37-0382,"Unit 0068 Box 1016
-DPO AE 24767",N,miles
-92,Kimberly Clay,594-28-2227,"39726 Page Streets Apt. 905
-Susanville, MN 47285",Y,hours
-93,Christian Evans,608-69-3175,"10434 Stevens Centers
-Randallfurt, NE 47964",N,hours
-94,Arthur Harris,640-63-3843,"2063 Wall Ridges
-Greentown, TN 80211",Y,hours
-95,Michelle Brown,590-81-9541,"540 Cooke Knoll Suite 356
-Micheleton, WV 17146",Y,miles
-96,Sarah Brown,549-26-2712,"6276 Parsons Expressway
-Jessicaview, MN 99310",Y,hours
-97,Rachel Fox,253-98-4863,"8907 Li Oval Apt. 035
-Hamptonside, WY 03204",N,hours
-98,Amanda Dean,007-02-4036,"246 Krista Plaza
-North Sarah, AZ 40710",N,miles
-99,Stacy Watson,404-93-6352,"29730 Sean Track Suite 632
-Oliverfurt, VI 61424",N,hours
-100,Michael Williams,632-52-6737,"81138 Clements Knoll Apt. 631
-North Ann, GU 71841",Y,miles
-101,Jesse Anderson,610-19-0020,"1722 James Inlet
-Port Tina, HI 53950",N,hours
-102,Lisa Hill,499-92-2598,"Unit 5669 Box 4695
-DPO AP 36807",N,miles
-103,Michelle Strickland,799-06-5101,"0608 Michael Rest Apt. 834
-Port Richardfurt, SD 08365",N,hours
-104,Joseph Jackson,534-25-9047,"3919 Meghan Motorway Apt. 061
-West Jacobmouth, ME 29123",N,miles
-105,Jessica Klein,209-61-6512,"921 William Shores
-Jaredberg, DC 69278",N,miles
-106,Bryce Robinson,391-24-9309,"3507 Stewart Bypass Apt. 637
-Lake Jesse, AL 68690",Y,miles
-107,Lauren Johnson,350-94-4094,"16693 Mcdonald Stream Suite 937
-Deckerside, TN 02918",N,hours
-108,Christina Ortiz,736-92-8028,"8218 Conway Burg
-East Robert, MP 72357",N,hours
-109,Michael Ball,283-26-4649,"464 Jonathan Plaza
-Port Justin, AK 68274",N,miles
+driverId,name,ssn,location,certified,wage-plan
+10,Heather Miller,442-20-9382,"03227 Gregory Junctions
+Richardsonmouth, MP 86690",N,miles
+11,Keith Pierce,606-77-0910,"44161 Michael Track
+South Michael, OH 44410",Y,hours
+12,Julie Andrews,836-21-3064,"USCGC Nelson
+FPO AA 34683",N,miles
+13,Rodney Green,262-27-9850,"072 Jessica Bridge Suite 362
+Claytonfort, MP 24663",N,miles
+14,Walter Miller,822-89-9096,"457 Angela Lodge Apt. 074
+New Matthewmouth, KS 38017",Y,miles
+15,Janice Craig,461-17-5505,"314 White Forges
+Tannerstad, KS 96088",Y,hours
+16,James Erickson,453-29-3784,"9019 Santiago Station Apt. 144
+Fowlertown, WA 69734",N,miles
+17,Madison Reyes,229-72-0435,"6086 Hancock Crest
+Danielleberg, MA 32397",Y,hours
+18,Brent Johnson,857-06-9237,"648 Gonzalez Inlet Suite 952
+Joshualand, LA 44791",Y,miles
+19,Edward West,494-61-8311,"40667 Jason Crossroad
+Martinezville, ND 67040",Y,hours
+20,Erin Brown,417-09-8345,"4881 Dakota Park Apt. 139
+Andrewfort, DE 34524",Y,miles
+21,Lisa Reid,613-31-9402,"392 Kemp Club
+Bowenside, CT 79222",Y,miles
+22,Jennifer Mathis,776-29-6167,"742 Walter Groves
+Rosalesland, NC 67025",N,hours
+23,Jennifer Horton,806-17-6901,"PSC 6732, Box 8210
+APO AP 21077",N,miles
+24,Haley Campbell,719-14-6801,"6414 Tapia Turnpike Suite 813
+Johnnyport, GU 50662",Y,miles
+25,Samantha Brown,114-41-7839,"04170 Karen Springs Suite 965
+Nicholston, CA 77971",N,miles
+26,Daniel Swanson,599-77-4057,"736 Jessica Plaza Apt. 798
+Pamelaside, DC 31848",Y,miles
+27,Heidi Sullivan,497-87-4386,"99555 Reed Port
+Morrisonton, MT 63068",Y,hours
+28,Jimmy Thomas,793-80-4319,"27241 Ramirez Square
+West Robin, UT 77981",N,miles
+29,Tyler Nguyen,167-81-4000,"84343 Roberto Divide Suite 945
+Port Sandramouth, ME 83309",Y,miles
+30,Michelle Cole,874-28-6296,"79846 Justin Crossroad Apt. 691
+Joshuabury, DE 17248",N,miles
+31,Richard Wilson,507-52-8738,"Unit 8501 Box 7101
+DPO AA 59334",N,hours
+32,James Hill,283-57-5593,"225 Odonnell Expressway
+West Laurenview, WA 09392",N,hours
+33,Mrs. Kimberly Martin,106-84-9688,"6660 Jeffrey Groves
+Hobbsland, CO 93462",Y,hours
+34,Charles Mitchell,864-99-4835,"58099 James Pine
+Garyview, NV 05478",Y,miles
+35,Seth Fuller,723-50-2066,"892 Hernandez Glens Suite 215
+Mendozafort, FL 89321",Y,hours
+36,Mr. Michael Padilla MD,645-38-0374,"096 Davis Spur Apt. 084
+Lake Ryan, OR 27955",N,miles
+37,Brandi Webb,279-82-2668,"078 Lori Heights
+Meyersborough, OH 19445",N,hours
+38,Randall Scott,286-33-0352,"76429 Ronnie Plains Suite 821
+Lake Daniel, WI 44871",Y,hours
+39,Pamela Doyle,757-69-6578,"3630 Jones Mill
+North Jenniferhaven, WV 72768",N,miles
+40,Cody Conley,710-98-8502,"Unit 6842 Box 5910
+DPO AE 67513",Y,hours
+41,Daniel Adams DVM,487-64-4560,"22962 Andrew Fords Suite 768
+New Beverly, WI 68591",Y,miles
+42,Philip Church,874-88-7477,"280 Kemp Court Suite 237
+New Dennismouth, AZ 79676",N,hours
+43,Monica Clark,342-62-7516,"Unit 4717 Box 0126
+DPO AA 90526",N,miles
+44,Gabrielle Lang,812-08-5696,"30957 Shane Springs Suite 576
+South James, NJ 56650",N,hours
+45,Timothy Chen,781-33-7271,"3949 Harvey Underpass
+Rodgersborough, MT 96833",N,hours
+46,Monica Henderson,511-54-9148,"7456 Jessica Lock
+Darrenburgh, MN 15064",N,hours
+47,Christopher Peterson,670-12-9164,"12403 Valerie Key
+Adamshaven, AS 38122",N,miles
+48,Connie Roman,865-52-4739,"78568 Joshua Knoll Suite 206
+Port Kevin, HI 27685",N,hours
+49,Michael Harper,064-60-9689,"USS Adkins
+FPO AA 32828",N,miles
+50,Ashley Morales,750-74-7057,"67821 Johnny Lights Apt. 127
+Gambleshire, MA 19570",Y,hours
+51,Steven Byrd,306-44-9437,"12587 Ronald Manors
+East Isaac, KY 90638",N,hours
+52,Timothy Crawford,461-90-7447,"86738 Thomas Viaduct
+Jacquelinemouth, KS 72021",N,miles
+53,Darren Austin,463-20-1554,"084 Johnson Cape
+Nelsonburgh, IA 43967",N,miles
+54,Charles White,650-56-4029,"118 Perez Mountains Suite 098
+Smithshire, AR 02414",N,hours
+55,Kelsey Fisher,482-31-6705,"015 Jonathan Park Suite 601
+Sherimouth, WV 70921",N,miles
+56,Heidi Mueller,545-44-9621,"1771 Hoover Landing
+Hudsonchester, RI 21705",N,hours
+57,Steve Snow,386-40-0845,"5456 Felicia Brook Suite 594
+Andreachester, OK 60091",N,hours
+58,Cameron Jones,782-49-8290,"8220 Martin Island Suite 651
+West Davidberg, NE 50800",Y,hours
+59,Melissa Martinez,233-42-5472,"1020 Hicks Mountains Apt. 743
+Dianahaven, WY 15592",Y,miles
+60,Austin Gross,152-88-7602,"PSC 9976, Box 4990
+APO AA 36218",N,hours
+61,Kimberly Jones,147-70-8500,"43583 Anderson Brook
+East Sherri, NC 86501",N,miles
+62,Julia Gilbert,611-94-5605,"221 Farrell Forks
+Michaelchester, FL 30054",Y,miles
+63,Brooke Smith,605-36-0936,"Unit 5358 Box 3011
+DPO AE 77400",Y,hours
+64,Kathleen Carlson,358-21-7955,"41758 Valenzuela Unions Apt. 302
+West Jessica, MP 58293",N,hours
+65,Sandra Cooper,226-14-5912,"5663 Samuel Trail
+Saraland, OR 22630",Y,miles
+66,Bonnie Smith,386-88-6182,"50665 Elizabeth Shoals
+Sandovalberg, CO 24453",N,hours
+67,Jennifer Nelson,885-12-1127,"37111 Walters Turnpike Apt. 421
+Larsontown, ME 81429",N,miles
+68,Bradley Wilkinson,188-32-0199,"451 Brooks Ports Apt. 619
+North Timothy, MS 90429",N,miles
+69,Julie Rodriguez,360-67-2374,"PSC 0554, Box 9608
+APO AA 93437",Y,miles
+70,Derek Hill,618-65-1790,"65457 Sharon Well Suite 039
+East Theresabury, NV 31382",Y,miles
+71,Bridget Jones,864-16-5048,"265 Gabriela Ports Apt. 496
+Jennifermouth, FL 77098",N,miles
+72,Heather Fischer,122-80-4238,"Unit 9016 Box 2312
+DPO AE 02234",Y,miles
+73,Amber Thomas,317-17-2422,"8702 Parker Isle
+Julieport, ND 51817",Y,miles
+74,Robert Gill,787-27-8645,"179 Brandon Cape Apt. 071
+West Kevin, UT 17454",N,hours
+75,Paul Anderson,848-36-7675,"20506 Villarreal Meadow Apt. 515
+Robertland, SD 12033",N,miles
+76,Trevor Thompson,380-62-3087,"USNV Kline
+FPO AE 10881",Y,hours
+77,Thomas Powell,195-97-4650,"6065 Decker Square Suite 497
+West Monica, MA 90762",N,miles
+78,Diana Johnson,273-20-1139,"7571 Roberts Trafficway
+East Dylanside, PA 42709",N,miles
+79,Ethan Obrien,672-58-5161,"07698 Herrera Stravenue Apt. 099
+New Frank, NY 62834",Y,miles
+80,Stephanie Carlson,403-69-5390,"4938 Carlos Pine
+West Allen, FL 24447",N,miles
+81,Lisa Rios,128-33-7293,"65209 Johnson Islands
+South Jared, SC 04600",N,hours
+82,Tony Ochoa,052-17-4893,"17942 Reid Pines Apt. 794
+Cummingsburgh, CO 40546",Y,miles
+83,Steven Jones,756-05-3084,"7677 David Cliff
+Aaronland, NV 27556",Y,miles
+84,William Harris,889-91-5523,"138 Bryan Radial Apt. 284
+North Tammy, RI 54711",N,miles
+85,Vanessa Lee,335-97-6169,"30796 William Club Apt. 711
+Port Jillton, LA 98081",N,hours
+86,Jessica Bridges,393-56-7597,"0227 Elizabeth Stream Suite 260
+East Benjamin, IN 90797",Y,miles
+87,William Branch,650-28-7225,"43946 Brenda Crossing Apt. 843
+South Jerry, FL 18212",Y,miles
+88,Kimberly Smith,608-69-9670,"50623 Ramsey Brook Apt. 308
+Port Misty, FM 07711",N,miles
+89,Andrea Jones,772-06-3665,"PSC 4511, Box 3036
+APO AA 03337",N,miles
+90,Mary Woodard,532-13-6180,"277 Schneider Village
+North Brian, PA 09751",Y,hours
+91,Mr. Isaac Alvarez,726-48-3393,"4306 Burke Freeway
+Port Jaime, WA 47295",Y,miles
+92,Mary Mullins,106-92-5082,"3522 Dawn Wells
+South Chelseyfort, ME 67831",Y,hours
+93,Logan Durham,104-56-9746,"799 Carroll Fords
+West Christytown, IN 56524",Y,miles
+94,Carol Reynolds,657-19-0709,"0322 Garcia Trafficway Suite 848
+New Jesseside, IL 50317",N,hours
+95,Thomas Brown,449-66-5678,"7951 Garcia Causeway Apt. 091
+Lake David, HI 87768",N,miles
+96,James Young,268-69-6789,"315 Allison Plains Apt. 550
+North Richardberg, RI 79434",Y,miles
+97,Melissa Gomez,053-97-1901,"0908 Brian Glen Suite 787
+Larsonchester, MP 63712",Y,hours
+98,Mark Chavez,040-41-9700,"854 Williams Keys
+Port Tina, AS 95952",Y,hours
+99,Austin Cooper,290-38-7954,"7114 Cordova Knolls
+Lake Donna, PA 02326",N,hours
+100,Mary Duncan,587-60-3810,"800 Gomez Isle
+Ianport, OH 03399",Y,hours
+101,Samantha Lewis,803-33-6020,"343 Angel Ports Suite 579
+Barbarabury, AZ 72046",N,hours
+102,Rebekah Cunningham,196-11-4053,"Unit 4619 Box 8258
+DPO AA 98574",N,miles
+103,John Montgomery,133-36-0649,"27806 Darrell Crest
+South Michaelburgh, GU 99638",Y,hours
+104,John Carr,400-68-9032,"97132 Brett Pass Apt. 954
+North Jerry, IA 92023",N,hours
+105,Maria Spence,491-88-5023,"8209 Evans Garden
+New Bruce, DE 12222",Y,miles
+106,Robert Perez,829-63-3820,"529 Dakota Mews
+Atkinsburgh, PR 88118",N,miles
+107,Jerry Ferguson,588-61-4467,"0003 Craig Valleys Suite 259
+Edgarport, NJ 16171",N,miles
+108,Jonathon Clark Jr.,160-11-4561,"7825 Jared Station Apt. 082
+Mooneyland, NM 85680",Y,miles
+109,Jose Ayala,179-75-5429,"412 Hughes Common Apt. 676
+Port Rebecca, OR 36060",N,miles
